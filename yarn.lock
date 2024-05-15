@@ -1896,9 +1896,9 @@ copy-anything@^2.0.1:
     is-what "^3.7.1"
 
 core-js@^3.6.5:
-  version "3.20.3"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.20.3.tgz#c710d0a676e684522f3db4ee84e5e18a9d11d69a"
-  integrity sha512-vVl8j8ph6tRS3B8qir40H7yw7voy17xL0piAjlbBUsH7WIfzoedL/ZOr1OV9FyZQLWXsayOJyV4tnRyXR85/ag==
+  version "3.37.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.37.1.tgz#d21751ddb756518ac5a00e4d66499df981a62db9"
+  integrity sha512-Xn6qmxrQZyB0FFY8E3bgRXei3lWDJHhvI+u0q9TKIYM49G8pAr0FgnnrFRAmsbptZL1yxRADVXn+x5AGsbBfyw==
 
 core-util-is@1.0.2, core-util-is@^1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
